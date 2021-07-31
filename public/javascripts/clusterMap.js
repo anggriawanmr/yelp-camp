@@ -22,7 +22,7 @@ map.on("load", function () {
   // add a clustered GeoJSON source for a sample set of earthquakes
   map.addSource("earthquakes", {
     type: "geojson",
-    data: "https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson",
+    data: campgrounds,
     cluster: true,
     clusterRadius: 80,
     clusterProperties: {
