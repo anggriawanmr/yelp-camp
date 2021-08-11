@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.colorTheme": "Monokai Pro",
   "files.autoSave": "onFocusChange",
   "editor.minimap.enabled": true,
   "workbench.statusBar.visible": true,
